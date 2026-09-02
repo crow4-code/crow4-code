@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Thomas, a game developer based in Manchester building worlds I hope people get lost in. I'm especially drawn to horror and psychological games — experiences that get under your skin — and I work primarily in Unity, with growing experience in Unreal and Godot.
+I'm Thomas, a game developer based in Manchester building worlds I hope people get lost in. I'm especially drawn to horror and psychological games — experiences that'll get you thinking when the next jumpscare will be — and I work primarily in Unity, with growing experience in Unreal and Godot.
 
 ## Currently Working On
 - Building code_name_hide, a 3D horror game inspired by Little Nightmares — centered on psychological torment, an oppressive atmosphere, and unpredictable jump scares
