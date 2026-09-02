@@ -17,4 +17,4 @@ I'm Thomas, a game developer based in Manchester building worlds I hope people g
 ## Reach Me
 **LinkedIn**: [Click me to view LinkedIn](https://www.linkedin.com/in/thomas-dawson-750101365/)
 
-<img width="736" height="230" alt="image" src="https://github.com/user-attachments/assets/6b785b28-acd2-4a41-b28c-6dd81194bbb9" />
+<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/1301987c-6f79-46de-9c8c-6ef178977a4e" />
