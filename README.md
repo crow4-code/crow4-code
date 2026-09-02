@@ -15,6 +15,4 @@ Game Dev: Game Design Docs, Shaders (HLSL)
 Tools & Environment: Git, GitHub
 
 ## Reach Me
-Portfolio: crow4-code.github.io/Portfolio
-LinkedIn: Click me to view LinkedIn
-Email: thomasd110608@gmail.com
+**LinkedIn**: [Click me to view LinkedIn](https://www.linkedin.com/in/thomas-dawson-750101365/)
