@@ -9,10 +9,10 @@ I'm Thomas, a game developer based in Manchester building worlds I hope people g
 - Learning Unreal Engine and C++ alongside my existing Unity/C# work
 
 ## Tools I Use
-Engines: Unity, Unreal Engine, Godot
-Languages: C#, C++, GDScript
-Game Dev: Game Design Docs, Shaders (HLSL)
-Tools & Environment: Git, GitHub
+- Engines: Unity, Unreal Engine, Godot
+- Languages: C#, C++, GDScript
+- Game Dev: Game Design Docs, Shaders (HLSL)
+- Tools & Environment: Git, GitHub
 
 ## Reach Me
 **LinkedIn**: [Click me to view LinkedIn](https://www.linkedin.com/in/thomas-dawson-750101365/)
